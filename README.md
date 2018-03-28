@@ -2,12 +2,12 @@
 
 ## Logistics
 
-- Registration: please fill this [registration form](https://1drv.ms/xs/s!Arm_AFxB9yqHtIIpmmPeoMhEmeYfjw?wdFormId=%7B69951206%2D0309%2D480F%2D83E7%2D5FDA6E07874D%7D)
 - Date:	2018 April 30 - May 2.
 - Time:	9:30 AM to 4:00 PM every day.
 - Location:	Goodwin Hall (25 Union Street, Kingston, ON K7L 3N6), room # to be confirmed.
--	Lunch will be provided (pizza, sandwich).
--	Presentation slides and additional files will be available in this repository.
+- Registration: please fill this [registration form](https://1drv.ms/xs/s!Arm_AFxB9yqHtIIpmmPeoMhEmeYfjw?wdFormId=%7B69951206%2D0309%2D480F%2D83E7%2D5FDA6E07874D%7D). Registration is free.
+- You need to arrange travel and accommodation. Most affordable motel at walking distance is [Howard Johnson Kingston](https://www.reservationdesk.com/hotel/612046f/howard-johnson-inn-kingston-kingston-on) or you may find a room near the campus on [AirBnb](https://www.airbnb.ca/).
+-	Lunch will be provided (pizza, sandwich, etc.).
 - Any questions? Send an email to [Andras Lasso](mailto:lasso@queensu.ca).
 
 ## Pre-requisites
@@ -49,3 +49,5 @@
 - 13:00	3D Slicer module types and programming Slicer - part 2 (Andras, Matthew): Individual work to develop a more advanced module
 - 15:30	Medical imaging file formats (Andras)
 - 16:00	Adjourn
+
+Presentation slides and additional files will be available in this repository.
