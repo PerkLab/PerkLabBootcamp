@@ -2,10 +2,11 @@
 
 ## Logistics
 
+- Registration: please fill this [registration form](https://1drv.ms/xs/s!Arm_AFxB9yqHtIIpmmPeoMhEmeYfjw?wdFormId=%7B69951206%2D0309%2D480F%2D83E7%2D5FDA6E07874D%7D)
 - Date:	2018 April 30 - May 2.
 - Time:	9:30 AM to 4:00 PM every day.
 - Location:	Goodwin Hall (25 Union Street, Kingston, ON K7L 3N6), room # to be confirmed.
--	Lunch will be provided (pizza, sandwich). Let us know if you have dietary restrictions.
+-	Lunch will be provided (pizza, sandwich).
 -	Presentation slides and additional files will be available in this repository.
 - Any questions? Send an email to [Andras Lasso](mailto:lasso@queensu.ca).
 
