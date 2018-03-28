@@ -19,7 +19,11 @@
 -	Install latest version of PLUS from: http://perk-software.cs.queensu.ca/plus/packages/nightly/ -> PlusApp-...-Win32.exe package (the generic version, not Ultrasonix, Telemed, etc.). If you bring a non-Windows computer then you may not be able to follow certain hands-on exercises (less than 2 hours in total).
 -	Register a user at www.github.com
 
-## Preliminary program (subject to change)
+## Preliminary program (sibject to change)
+
+To be scheduled:
+- Design for 3D printing (Tamas)
+- Segmentation in 3D Slicer using Segment Editor (Andras)
 
 ### April 30, Monday: Introduction
 
