@@ -20,7 +20,7 @@
 -	Register a user at www.github.com
 - Optionally, install [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview) CAD software. Register an account with a university email address to get access to Fusion 360 for free. You will be able to follow model design and 3D printing tutorial without Fusion 360, if you laptop does not meet minimum hardware requirements. If you would also print your designed models, download [Makerbot Desktop](https://support.makerbot.com/troubleshooting/makerbot-desktop-software/software-download/download_12190)
 
-## Preliminary program (sibject to change)
+## Preliminary program (subject to change)
 
 To be scheduled:
 - Design for 3D printing (Tamas)
