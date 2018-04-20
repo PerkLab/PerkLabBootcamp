@@ -22,37 +22,37 @@
 
 ## Preliminary program (subject to change)
 
-To be scheduled:
-- Design for 3D printing (Tamas)
-- Segmentation in 3D Slicer using Segment Editor (Andras)
-
 ### April 30, Monday: Introduction
 
 - 9:30	Lab policies, available services, and guides – required only for PerkLab members (Thomas/Tamas)
-- 10:00	Introduction of participants – with tea and cookies.
+- 10:00	Introduction of participants and instructors – with tea and cookies. ?shorter?
 - 11:00	Software platform, open-source, reproducible science (Andras)
-- 11:30	Primer on medical interventions: procedures, anatomy, tools (Tamas)
-- 12:30	Lunch break
-- 13:00	3D Slicer basics (Csaba)
-- 15:00	Project management (Andras)
+- 11:30 Project management (Andras, Mark)
+- 12:30	Lunch break (pizza)
+- 13:00	3D Slicer basics (Csaba, Andras, Mark)
+  - Visualization
+  - Registration
+  - 45 min Segmentation in 3D Slicer using Segment Editor (Andras)
 - 16:00	Adjourn
 
+Dinner 6pm at [Brew Pub](https://www.kingstonbrewing.ca/) (optional, $)
+
 ### May 1, Tuesday: Tracking and imaging
-- 9:30	Perk Tutor (Matthew)
-- 10:30	Tracking basics, Coordinate systems and transforms (Tamas)
-- 11:30	PLUS main features (Matthew)
-- 12:00	Lunch break
-- 13:00	Writing Plus config files for tracking and image acquisition (Matthew)
-- 14:00	SlicerIGT modules: calibrations, visualization (Matthew, Andras)
-- 15:30	Ultrasound imaging basics (Tamas)
-- 16:00	Adjourn
+- 9:30	Tracking basics, Coordinate systems and transforms (Tamas)
+- 10:30	PLUS main features (Kyle)
+- 11:00	Writing Plus config files for tracking and image acquisition (Matthew)
+- 12:00	Lunch break (sandwich)
+- 12:30 Design for 3D printing (Tamas)
+- 13:30	SlicerIGT modules: neuronavigation - calibrations, visualization (Matthew, Tamas, Mark)
+- 15:30	Perk Tutor (Matthew)
+- 16:30	Break
+- 17:00 Social (Mario Kart, snacks)
 
 ### May 2, Wednesday: Slicer module development
 - 9:30	Writing correct and understandable code (Andras)
-- 10:30	3D Slicer module types and programming Slicer - part 1 (Andras, Matthew): Python basics and developing simple example Python module Center of Masses
-- 12:30	Lunch break
-- 13:00	3D Slicer module types and programming Slicer - part 2 (Andras, Matthew): Individual work to develop a more advanced module
-- 15:30	Medical imaging file formats (Andras)
+- 10:30	3D Slicer module types and programming Slicer - part 1 (Csaba, Andras, Matthew): Python basics and developing simple example Python module Center of Masses
+- 12:30	Lunch break (sushi)
+- 13:00	3D Slicer module types and programming Slicer - part 2 (Csaba, Andras, Matthew): Individual work to develop a more advanced module
 - 16:00	Adjourn
 
 Presentation slides and additional files will be available in this repository.
