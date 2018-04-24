@@ -39,12 +39,12 @@ Dinner 6pm at [Brew Pub](https://www.kingstonbrewing.ca/) (optional, $)
 
 ### May 1, Tuesday: Tracking and imaging
 - 9:30	Tracking basics, Coordinate systems and transforms (Tamas)
-- 10:30	PLUS main features (Kyle)
-- 11:00	Writing Plus config files for tracking and image acquisition (Matthew)
+- 10:30	PLUS main features (Matthew, Kyle)
+- 11:00	Writing Plus config files for tracking and image acquisition (Matthew, Kyle)
 - 12:00	Lunch break (sandwich)
 - 12:30 Design for 3D printing (Tamas)
 - 13:30	SlicerIGT modules: neuronavigation - calibrations, visualization (Matthew, Tamas, Mark)
-- 15:30	Perk Tutor (Matthew)
+- 15:30	Perk Tutor (Matthew, Zsuzsanna)
 - 16:30	Break
 - 17:00 Social (Mario Kart, snacks)
 
@@ -52,7 +52,7 @@ Dinner 6pm at [Brew Pub](https://www.kingstonbrewing.ca/) (optional, $)
 - 9:30	Writing correct and understandable code (Andras)
 - 10:30	3D Slicer module types and programming Slicer - part 1 (Csaba, Andras, Matthew): Python basics and developing simple example Python module Center of Masses
 - 12:30	Lunch break (sushi)
-- 13:00	3D Slicer module types and programming Slicer - part 2 (Csaba, Andras, Matthew): Individual work to develop a more advanced module
+- 13:00	3D Slicer module types and programming Slicer - part 2 (Csaba, Andras, Kyle): Individual work to develop a more advanced module
 - 16:00	Adjourn
 
 Presentation slides and additional files will be available in this repository.
