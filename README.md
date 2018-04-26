@@ -34,7 +34,7 @@
   - Visualization: load/save, sample data, viewers, models, volume rendering (30 min)
   - DICOM: tags, where to get them (web, TCIA browser), loading options, plugins, export (15 min)
   - Segmentation: (45 min, Andras)
-  - Registration: BRAINS, Elastix, Fiducial registration wizard, SegmentRegistration, transforms, transform visualization (45 min)
+  - Registration: BRAINS, Elastix, landmark registration, SegmentRegistration, transforms, transform visualization (45 min)
   - Other: Sequences, MatlabBridge, Virtual reality (15 min)
 - 16:00	Adjourn
 
