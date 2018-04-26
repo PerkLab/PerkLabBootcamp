@@ -13,7 +13,7 @@
 ## Pre-requisites
 -	Prepare with a short introduction about yourself (2-3 minutes, supported by 1-2 slides): experience, research interests, something personal
 -	Bring your own laptop. Windows OS is strongly recommended.
--	Install [3D Slicer](http://download.slicer.org/) latest stable version -> nightly 64-bit installer. After you installed Slicer, start it, open the Extension manager, and install these extensions: SlicerIGT, Sequences, Debugging tools
+-	Install [3D Slicer](http://download.slicer.org/) latest stable version (4.8.1) -> nightly 64-bit installer. After you installed Slicer, start it, open the Extension manager, and install these extensions: SlicerIGT, Sequences, Debugging tools, SlicerElastix, SegmentRegistration
 -	Install [Git for Windows](https://git-scm.com/download/win) and [TortoiseGit](https://tortoisegit.org/) if you bring a Windows computer. If you use another operating system, find a git client and get familiar with it (know how to clone a repository and push your changes).
 -	[PyCharm](https://www.jetbrains.com/pycharm/) Professional Edition (you can activate it immediately with your university email address), Community version is not suitable (does not support remote debugging) 
 -	Install latest version of PLUS from: http://perk-software.cs.queensu.ca/plus/packages/nightly/ -> PlusApp-...-Win32.exe package (the generic version, not Ultrasonix, Telemed, etc.). If you bring a non-Windows computer then you may not be able to follow certain hands-on exercises (less than 2 hours in total).
@@ -25,14 +25,17 @@
 ### April 30, Monday: Introduction
 
 - 9:30	Lab policies, available services, and guides – required only for PerkLab members (Thomas/Tamas)
-- 10:00	Introduction of participants and instructors – with tea and cookies. ?shorter?
+- 10:00	Introduction of participants and instructors – with tea and cookies.
 - 11:00	Software platform, open-source, reproducible science (Andras)
 - 11:30 Project management (Andras, Mark)
 - 12:30	Lunch break (pizza)
 - 13:00	3D Slicer basics (Csaba, Andras, Mark)
-  - Visualization
-  - Registration
-  - 45 min Segmentation in 3D Slicer using Segment Editor (Andras)
+  - Overview: core features, community, major extensions (30 min)
+  - Visualization: load/save, sample data, viewers, models, volume rendering (30 min)
+  - DICOM: tags, where to get them (web, TCIA browser), loading options, plugins, export (15 min)
+  - Segmentation: (45 min, Andras)
+  - Registration: BRAINS, Elastix, Fiducial registration wizard, SegmentRegistration, transforms, transform visualization (45 min)
+  - Other: Sequences, MatlabBridge, Virtual reality (15 min)
 - 16:00	Adjourn
 
 Dinner 6pm at [Brew Pub](https://www.kingstonbrewing.ca/) (optional, $)
