@@ -13,7 +13,7 @@
 ## Pre-requisites
 -	Prepare with a short introduction about yourself (2-3 minutes, supported by 1-2 slides): experience, research interests, something personal
 -	Bring your own laptop. Windows OS is strongly recommended.
--	Install [3D Slicer](http://download.slicer.org/) latest stable version (4.8.1) -> nightly 64-bit installer. After you installed Slicer, start it, open the Extension manager, and install these extensions: SlicerIGT, Sequences, Debugging tools, SlicerElastix, SegmentRegistration
+-	Install [3D Slicer](http://download.slicer.org/) latest stable version (4.8.1) -> nightly 64-bit installer. After you installed Slicer, start it, open the Extension manager, and install these extensions: SlicerIGT, Sequences, Debugging tools, SlicerElastix, SegmentRegistration, TCIABrowser
   - Install recent Slicer nightly version ([Windows](http://slicer.kitware.com/midas3/api/rest?method=midas.bitstream.download&name=Slicer-4.9.0-2018-04-23-win-amd64.exe&checksum=3cf04ad4326481349840fc046678b85c), [MacOS](http://slicer.kitware.com/midas3/api/rest?method=midas.bitstream.download&name=Slicer-4.9.0-2018-04-23-macosx-amd64.dmg&checksum=73bb86820220967990248804915503d5)), and install all extensions that you installed for 4.8.1.
 -	Install [Git for Windows](https://git-scm.com/download/win) and [TortoiseGit](https://tortoisegit.org/) if you bring a Windows computer. If you use another operating system, find a git client and get familiar with it (know how to clone a repository and push your changes).
 -	[PyCharm](https://www.jetbrains.com/pycharm/) Professional Edition (you can activate it immediately with your university email address), Community version is not suitable (does not support remote debugging) 
