@@ -10,6 +10,8 @@
 -	Lunch will be provided (pizza, sandwich, etc.).
 - Any questions? Send an email to [Andras Lasso](mailto:lasso@queensu.ca).
 
+**Please fill out the [feedback form](https://goo.gl/forms/ynJh8prrj5Mzcxsu1)!**
+
 ## Pre-requisites
 -	Prepare with a short introduction about yourself (2-3 minutes, supported by 1-2 slides): experience, research interests, something personal
 -	Bring your own laptop. Windows OS is strongly recommended.
@@ -60,3 +62,13 @@ Dinner 6pm at [Brew Pub](https://www.kingstonbrewing.ca/) (optional, $)
 - 16:00	Adjourn
 
 Presentation slides and additional files will be available in this repository.
+
+# Follow-up on software problems encountered during bootcamp
+
+- Top of the application window cut off, rest of the window is shifted up: known Intel graphics card driver issue. See details [here](https://discourse.slicer.org/t/missing-menu-items-from-slicer-application-main-window/2613/2?u=lassoan)
+- DICOM browser window did not appear: last used window position is stored in settings and restored - the position was invalid (outside of screen). [Fixed in latest nightly.](https://github.com/Slicer/Slicer/commit/c40d2557b8366548a844fcce20927067f54a932d)
+- Extension manager: double "Search" text appearance - pull request sent with a fix: https://github.com/commontk/CTK/pull/801
+- Extension manager: when typing quickly in search box some letters are removed. [Fixed in latest nightly.https://github.com/Slicer/Slicer/commit/d80402c226ecc6b9813cf06226d4db7a23a22a2c](https://discourse.slicer.org/t/liver-vasculature-segmentation/2688/2)
+- Extension manager: window size too high (cannot click restart button)
+- Nightly crashed on startup on Paola's computer
+- SlicerRT installation was incomplete (on Mac) probably because slicer was restarted before installation was completed
