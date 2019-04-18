@@ -13,11 +13,12 @@
 ## Pre-requisites
 -	Prepare with a short introduction about yourself (2-3 minutes, supported by 1-2 slides): experience, research interests, something personal
 -	Bring your own laptop. Windows OS is strongly recommended.
--	Install [3D Slicer](http://download.slicer.org/) latest stable version (4.10.1) -> nightly 64-bit installer. After you installed Slicer, start it, open the Extension manager, and install these extensions: SlicerIGT, Sequences, DebuggingTools, SlicerElastix, SegmentRegistration, TCIABrowser, PerkTutor, SlicerDMRI
+-	Install [3D Slicer](http://download.slicer.org/) latest stable version (4.10.1) -> nightly 64-bit installer. After you installed Slicer, start it, open the Extension manager, and install these extensions: SlicerIGT, Sequences, DebuggingTools, SlicerElastix, SegmentRegistration, TCIABrowser, PerkTutor, SlicerDMRI, SlicerJupyter.
 -	Install [Git for Windows](https://git-scm.com/download/win) and [TortoiseGit](https://tortoisegit.org/) if you bring a Windows computer. On macOS and Linux, Git comes with the OS so all we need is a client. On macOS we recommend using [GitHub Desktop](https://desktop.github.com/). On Linux, terminal commands are best. See the "Git on macOS and Unix" pdf for a tutorial.
+- Install [Python and Jupyter notebook](https://jupyter.org/install)
 -	Python IDE: install one or both of these
-  - [PyCharm](https://www.jetbrains.com/pycharm/) Professional Edition (you can activate it immediately with your university email address), Community version is not suitable (does not support remote debugging).
-  - [VisualStudio Code](https://code.visualstudio.com/). Install the Python extension from Microsoft (ms-python.python).
+    - [PyCharm](https://www.jetbrains.com/pycharm/) Professional Edition (you can activate it immediately with your university email address), Community version is not suitable (does not support remote debugging).
+    - [VisualStudio Code](https://code.visualstudio.com/). Install the Python extension from Microsoft (ms-python.python).
 -	Install latest version of PLUS from: http://perk-software.cs.queensu.ca/plus/packages/nightly/ -> PlusApp-...-Win32.exe package (the generic version, not Ultrasonix, Telemed, etc.). If you bring a non-Windows computer then you may not be able to follow certain hands-on exercises (less than 2 hours in total).
 -	Register a user at www.github.com
 - Optionally, install [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview) CAD software. Register an account with a university email address to get access to Fusion 360 for free. You will be able to follow model design and 3D printing tutorial without Fusion 360, if you laptop does not meet minimum hardware requirements. If you would also print your designed models, download [Makerbot Desktop](https://support.makerbot.com/troubleshooting/makerbot-desktop-software/software-download/download_12190)
