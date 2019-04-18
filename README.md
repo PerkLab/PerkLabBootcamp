@@ -51,7 +51,7 @@ Dinner 6pm at [Brew Pub](https://www.kingstonbrewing.ca/) (optional, $)
 - 13:30	SlicerIGT modules: neuronavigation - calibrations, visualization (Matthew, Tamas, Mark)
 - 15:30	Perk Tutor (Matthew, Zsuzsanna)
 - 16:30	Break
-- 17:00 Social (Mario Kart, snacks)
+- 17:00 Social (TBD)
 
 ### May 3, Friday: Slicer module development
 - 9:30	Writing correct and understandable code (Andras)
