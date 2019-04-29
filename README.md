@@ -13,7 +13,7 @@
 ## Pre-requisites
 -	Prepare with a short introduction about yourself (2-3 minutes, supported by 1-2 slides): experience, research interests, something personal
 -	Bring your own laptop. Windows OS is strongly recommended.
--	Install [3D Slicer](http://download.slicer.org/) latest stable version (4.10.1) -> nightly 64-bit installer. After you installed Slicer, start it, open the Extension manager, and install these extensions: SlicerIGT, Sequences, DebuggingTools, SlicerElastix, SegmentRegistration, TCIABrowser, PerkTutor, SlicerDMRI, SlicerJupyter.
+-	Install [3D Slicer](http://download.slicer.org/) latest stable version (4.10.1) -> nightly 64-bit installer. After you installed Slicer, start it, open the Extension manager, and install these extensions: SlicerIGT, SlicerOpenIGTLink, Sequences, DebuggingTools, SlicerElastix, SegmentRegistration, TCIABrowser, PerkTutor, SlicerDMRI, SlicerJupyter.
 -	Install [Git for Windows](https://git-scm.com/download/win) and [TortoiseGit](https://tortoisegit.org/) if you bring a Windows computer. On macOS and Linux, Git comes with the OS so all we need is a client. On macOS we recommend using [GitHub Desktop](https://desktop.github.com/). On Linux, terminal commands are best. See the "Git on macOS and Unix" pdf for a tutorial.
 - Install [Python and Jupyter notebook](https://jupyter.org/install)
 -	Python IDE: install one or both of these
