@@ -41,7 +41,7 @@
   - Other: Sequences, Jupyter, MatlabBridge, Virtual reality (Andras, 15 min)
 - 16:00	Adjourn
 
-Dinner 6pm at [Brew Pub](https://www.kingstonbrewing.ca/) ($)
+Dinner 6.30pm at [Red House](http://www.redhousedowntown.ca/) ($)
 
 ### May 2, Thursday: Tracking and imaging
 - 9:30	Tracking basics, Coordinate systems and transforms (Tamas)
