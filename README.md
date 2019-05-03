@@ -1,5 +1,7 @@
 # PerkLab bootcamp
 
+# >>> Please fill out the [feedback form](https://forms.gle/JojgRtKTAGuKPDnT6) <<<
+
 ## Logistics
 
 - Date:	2019 May 1-3.
