@@ -33,7 +33,7 @@
 
 Dinner 6.30pm at [Red House](http://www.redhousedowntown.ca/) ($)
 
-### May 4, Thursday: Tracking and imaging
+### May 4, Thursday: AI for image-guided interventions
 - 9:30	Tracking basics, Coordinate systems and transforms (Tamas)
 - 10:30	PLUS toolkit main features, writing Plus config files for tracking and image acquisition (Kyle)
 - 11:00	Sequences, SlicerIGT modules: neuronavigation - calibrations, visualization (hands-on, Kyle, Andras)
