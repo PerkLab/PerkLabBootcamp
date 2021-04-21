@@ -31,8 +31,6 @@
   - Other: DICOM, SlicerJupyter (15 min)
 - 16:00	Adjourn
 
-Dinner 6.30pm at [Red House](http://www.redhousedowntown.ca/) ($)
-
 ### May 4, Thursday: AI for image-guided interventions
 - 9:30	Tracking basics, Coordinate systems and transforms (Tamas)
 - 10:30	PLUS toolkit main features, writing Plus config files for tracking and image acquisition (Kyle)
@@ -43,7 +41,6 @@ Dinner 6.30pm at [Red House](http://www.redhousedowntown.ca/) ($)
 - 15:00	Train networks (Tamas)
 - 15:30	Use networks in 3D Slicer (hands-on, Tamas)
 - 16:30	Adjourn
-
 
 ### May 5, Friday: Slicer module development
 - 9:30	Writing correct and understandable code (Andras)
