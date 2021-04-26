@@ -31,7 +31,7 @@
   - Other: DICOM, SlicerJupyter (15 min)
 - 16:00	Adjourn
 
-### May 4, Thursday: AI for image-guided interventions
+### May 4, Tuesday: AI for image-guided interventions
 - 9:30	Tracking basics, Coordinate systems and transforms (Tamas)
 - 10:30	PLUS toolkit main features, writing Plus config files for tracking and image acquisition (Kyle)
 - 11:00	Sequences, SlicerIGT modules: neuronavigation - calibrations, visualization (hands-on, Kyle, Andras)
@@ -42,7 +42,7 @@
 - 15:30	Use networks in 3D Slicer (hands-on, Tamas)
 - 16:30	Adjourn
 
-### May 5, Friday: Slicer module development
+### May 5, Wednesday: Slicer module development
 - 9:30	Writing correct and understandable code (Andras)
 - 10:30	3D Slicer module types and programming Slicer - part 1 (Kyle, Andras, Tamas): Python basics and developing simple example Python module Center of Masses
 - 12:30	Break
