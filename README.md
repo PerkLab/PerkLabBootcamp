@@ -3,7 +3,7 @@
 ## Logistics
 
 - Date:	2021 May 3-5.
-- Location: online.
+- Location: Zoom + SpatialChat.
 - Application: (aplication is now closed)
 - Any questions? Send an email to [Andras Lasso](mailto:lasso@queensu.ca).
 
@@ -14,6 +14,7 @@
 - Register a user at www.github.com
 - If you want to effectively participate in day 3: get familiar with Python and numpy syntax; spend some time to get to know VTK (read as much of the [VTK textbook](https://vtk.org/vtk-textbook/) as you can, try to run some of the [VTK examples](https://kitware.github.io/vtk-examples/site/) in Python) and learn about [Qt for Python](https://www.qt.io/qt-for-python) (for example, complete a few basic tutorials).
 - Only for PerkLab members: Prepare with a short introduction about yourself (2-3 minutes, supported by 1-2 slides): experience, research interests, something personal
+- Install zoom and familiarize yourself with [SpatialChat](https://spatial.chat/s/TryMe) (we will use it for hands-on sessions so that multiple participant can share screen and ask questions from instructors when they get stuck)
 
 ## Preliminary program (subject to change)
 
