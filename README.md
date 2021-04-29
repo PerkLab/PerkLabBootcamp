@@ -18,35 +18,35 @@
 ## Preliminary program (subject to change)
 
 ### May 3, Monday: Introduction
-- 9:30	Lab policies, available services, and guides (Tamas) _– only for PerkLab members_
-- 10:00	Introduction of participants and instructors (all) _– only for PerkLab members_
-- 11:00	Software platform, open-source, reproducible science (Andras)
-- 11:30 Project management (Andras, Kyle)
+- 9:30	Lab policies, available services, and guides (Tamas, Laura) _– only for PerkLab members_ (zoom)
+- 10:00	Introduction of participants and instructors (all) _– only for PerkLab members_ `zoom`
+- 10:30	Coffee break - bring your own beverage, get to know all the participants `zoom+spatialchat`
+- 11:00	Software platform, open-source, reproducible science (Andras) `zoom`
+- 11:30 Project management (Andras; hands-on, help: Kyle) `zoom+spatialchat`
 - 12:30	Break
-- 13:30	3D Slicer basics (Andras, Kyle)
+- 13:30	3D Slicer basics (Andras; hands-on, help: Kyle, Tamas) `zoom+spatialchat`
   - Overview: core features, community, major extensions (30 min)
-  - Visualization: load/save, sample data, viewers, models, volume rendering (hands-on, 30 min)
-  - Segmentation (hands-on, 30 min)
-  - Registration: Elastix, landmark registration, SegmentRegistration, transforms, transform visualization (hands-on, 30 min)
+  - Visualization: load/save, sample data, viewers, models, volume rendering (30 min)
+  - Segmentation (30 min)
+  - Registration: Elastix, landmark registration, SegmentRegistration, transforms, transform visualization (30 min)
   - Other: DICOM, SlicerJupyter (15 min)
 - 16:00	Adjourn
 
 ### May 4, Tuesday: AI for image-guided interventions
-- 9:30	Tracking basics, Coordinate systems and transforms (Tamas)
-- 10:30	PLUS toolkit main features, writing Plus config files for tracking and image acquisition (Kyle)
-- 11:00	Sequences, SlicerIGT modules: neuronavigation - calibrations, visualization (hands-on, Kyle, Andras)
-- 12:30	Break
-- 13:30 Deep learning introduction (Tamas)
-- 14:00	Create training data (hands-on, Tamas)
-- 15:00	Train networks (Tamas)
-- 15:30	Use networks in 3D Slicer (hands-on, Tamas)
+- 9:30	PLUS toolkit main features, writing Plus config files for tracking and image acquisition (Kyle; hands-on, help: Andras) `zoom+spatialchat`
+- 10:30	Sequences, SlicerIGT modules: neuronavigation - coordinate systems, calibrations, visualization (Kyle; hands-on, help: Andras) `zoom+spatialchat`
+- 12:00	Break
+- 13:00 Deep learning in Slicer: bone segmentation on ultrasound (create training data, training, inference, volume reconstruction) (Tamas; hands-on) `zoom+spatialchat`
+- 14:45	Break
+- 15:00	Deep learning in Slicer: video analysis (annotation, training, using trained network) (Rebecca; hands-on) `zoom+spatialchat`
 - 16:30	Adjourn
 
 ### May 5, Wednesday: Slicer module development
-- 9:30	Writing correct and understandable code (Andras)
-- 10:30	3D Slicer module types and programming Slicer - part 1 (Kyle, Andras, Tamas): Python basics and developing simple example Python module Center of Masses
-- 12:30	Break
-- 13:00	3D Slicer module types and programming Slicer - part 2 (Kyle, Andras, Tamas): Individual work to develop a more advanced module
+- 9:30	Writing correct and understandable code (Andras) `zoom`
+- 10:00	Programming Slicer - part 1: 3D Slicer programming overview (Andras) `zoom`
+- 10:30 Programming Slicer - part 2: Python basics and developing simple example Python module Center of Masses (Kyle, hands-on, help: Andras, Tamas) `zoom+spatialchat`
+- 12:00	Break
+- 13:00	Programming Slicer - part 3: Individual work to develop a more advanced module (hands-on, help: Kyle, Andras, Tamas) `zoom+spatialchat`
 - 16:00	Adjourn
 
 Presentation slides and additional files will be available in this repository.
