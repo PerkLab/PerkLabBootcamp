@@ -4,7 +4,7 @@
 
 - Date:	2021 May 3-5.
 - Location: online.
-- Application: Apply using [this form](https://forms.gle/SCY3oxFrmDd7VVM86) by April 27, 2021. Application is open to everyone but if there are more interested people than we can accommodate then we will have to prioritize accepting applications from our collaborators. We will notify each applicant by April 28.
+- Application: (aplication is now closed)
 - Any questions? Send an email to [Andras Lasso](mailto:lasso@queensu.ca).
 
 ## Pre-requisites
