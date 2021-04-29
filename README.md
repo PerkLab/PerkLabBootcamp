@@ -18,7 +18,7 @@
 ## Preliminary program (subject to change)
 
 ### May 3, Monday: Introduction
-- 9:30	Lab policies, available services, and guides (Tamas, Laura) _– only for PerkLab members_ (zoom)
+- 9:30	Lab policies, available services, and guides (Tamas, Laura) _– only for PerkLab members_ `zoom`
 - 10:00	Introduction of participants and instructors (all) _– only for PerkLab members_ `zoom`
 - 10:30	Coffee break - bring your own beverage, get to know all the participants `zoom+spatialchat`
 - 11:00	Software platform, open-source, reproducible science (Andras) `zoom`
