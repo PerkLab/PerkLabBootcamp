@@ -16,7 +16,10 @@
 - Only for PerkLab members: Prepare with a short introduction about yourself (2-3 minutes, supported by 1-2 slides): experience, research interests, something personal
 - Install zoom and familiarize yourself with [SpatialChat](https://spatial.chat/s/TryMe) (we will use it for hands-on sessions so that multiple participant can share screen and ask questions from instructors when they get stuck)
 
-## Preliminary program (subject to change)
+## Program
+
+The program may slightly change at any time before and during the event, so please check this page regularly.
+Time zone: UTC-4.
 
 ### May 3, Monday: Introduction
 - 9:30	Lab policies, available services, and guides (Tamas, Laura) _– only for PerkLab members_ `zoom`
