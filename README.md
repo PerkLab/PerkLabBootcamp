@@ -17,6 +17,7 @@
 - Install zoom and familiarize yourself with [SpatialChat](https://spatial.chat/s/TryMe) (we will use it for hands-on sessions so that multiple participant can share screen and ask questions from instructors when they get stuck)
 - Windows users: Download and install latest stable 64-Bit Plus (2.8.0.20191105-Win64) from [here](http://perk-software.cs.queensu.ca/plus/packages/stable/).
 - Windows users: Print a set of ArUco markers from [here](https://github.com/PlusToolkit/PlusLibData/raw/master/ConfigFiles/OpticalMarkerTracker/marker_sheet_36h12.pdf) at 100% scale.
+- Download NeuroNav tutorial data from [here](https://queensuca-my.sharepoint.com/:f:/g/personal/krs2_queensu_ca/Eieoe4639BJFjzVTUM5w6LcBLn5SwE3qJH7WskaNolC32A?e=j99GwT).
 
 ## Program
 
