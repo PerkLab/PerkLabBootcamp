@@ -30,7 +30,7 @@ Time zone: UTC-4.
 - 10:30	Coffee break - bring your own beverage, get to know all the participants `zoom+spatialchat`
 - 11:00	Software platform, open-source, reproducible science (Andras) `zoom`
 - 11:30 Project management (Andras; hands-on, help: Kyle) `zoom+spatialchat`
-- 12:30	Break
+- 12:45	Break
 - 13:45	3D Slicer basics (Andras; hands-on, help: Kyle, Tamas) `zoom+spatialchat`
   - Overview: core features, community, major extensions (30 min)
   - Visualization: load/save, sample data, viewers, models, volume rendering (30 min)
