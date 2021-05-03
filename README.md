@@ -34,10 +34,9 @@ Time zone: UTC-4.
 - 13:45	3D Slicer basics (Andras; hands-on, help: Kyle, Tamas) `zoom+spatialchat`
   - Overview: core features, community, major extensions (30 min)
   - Visualization: load/save, sample data, viewers, models, volume rendering (30 min)
-  - DICOM (30 min)
+  - DICOM (15 min)
   - Segmentation (30 min)
   - Registration: Elastix, landmark registration, SegmentRegistration, transforms, transform visualization (30 min)
-  - Other: DICOM, SlicerJupyter (15 min)
 - 16:00	Adjourn
 
 ### May 4, Tuesday: AI for image-guided interventions
