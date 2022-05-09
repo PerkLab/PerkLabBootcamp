@@ -2,9 +2,9 @@
 
 ## Logistics
 
-- Date:	2021 May 3-5.
+- Date:	2022 May 24-26
 - Location: Zoom + SpatialChat.
-- Application: (aplication is now closed)
+- Application: send your application before May 18
 - Any questions? Send an email to [Andras Lasso](mailto:lasso@queensu.ca).
 
 ## Pre-requisites
@@ -24,35 +24,45 @@
 The program may slightly change at any time before and during the event, so please check this page regularly.
 Time zone: UTC-4.
 
-### May 3, Monday: Introduction
-- 9:30	Lab policies, available services, and guides (Tamas, Laura) _– only for students at Queen's_ `zoom`
-- 10:00	Introduction of participants and instructors (all) _– only for students at Queen's_ `zoom`
-- 10:30	Coffee break - bring your own beverage, get to know all the participants `zoom+spatialchat`
-- 11:00	Software platform, open-source, reproducible science (Andras) `zoom`
-- 11:30 Project management (Andras; hands-on, help: Kyle) `zoom+spatialchat`
-- 12:45	Break
-- 13:45	3D Slicer basics (Andras; hands-on, help: Kyle, Tamas) `zoom+spatialchat`
+### May 24, Tuesday: Introduction, 3D Slicer basics, Project management
+- 9:00 Introduction, learning spatialchat (Andras) `zoom+spatialchat`
+- 9:15 3D Slicer basics (Andras) `zoom`
   - Overview: core features, community, major extensions (30 min)
+- 9:45 3D Slicer basics 1/2 (Csaba/David hands-on, help: Andras, Kyle, Tamas, Csaba, David, Monica, in French: Marie) `zoom+spatialchat`
   - Visualization: load/save, sample data, viewers, models, volume rendering (30 min)
   - DICOM (15 min)
-  - Segmentation (30 min)
+- 10:30 Break 
+- 10:45 3D Slicer basics 2/2 (Andras hands-on, help: Andras, Kyle, Tamas, Csaba, David, Monica, in French: Marie)
+  - Segmentation (60 min)
   - Registration: Elastix, landmark registration, SegmentRegistration, transforms, transform visualization (30 min)
+- 12:15 Lunch break
+- 13:00	Lab policies, available services, and guides (Tamas, Laura) _– only for students at Queen's_ `zoom`
+- 13:30	Introduction of participants and instructors (all) _– only for students at Queen's_ `zoom`
+- 14:15	Coffee break - bring your own beverage, get to know all the participants `zoom+spatialchat`
+- 14:30	Software platform, open-source, reproducible science (Andras) `zoom`
+- 15:00 Project management (Andras; hands-on, help: Kyle) `zoom+spatialchat`
 - 16:00	Adjourn
 
-### May 4, Tuesday: AI for image-guided interventions
-- 9:30	PLUS toolkit main features, writing Plus config files for tracking and image acquisition (Kyle; hands-on, help: Andras) `zoom+spatialchat`
-- 10:30	Sequences, SlicerIGT modules: neuronavigation - coordinate systems, calibrations, visualization (Kyle; hands-on, help: Andras) `zoom+spatialchat`
-- 12:00	Break
-- 13:00 Deep learning in Slicer: bone segmentation on ultrasound (create training data, training, inference, volume reconstruction) (Tamas; hands-on) `zoom+spatialchat`
-- 14:45	Break
-- 15:00	Deep learning in Slicer: video analysis (annotation, training, using trained network) (Rebecca; hands-on) `zoom+spatialchat`
-- 16:30	Adjourn
+### May 25, Wednesday: AI for image-guided interventions
+- 9:00 AI: `zoom+spatialchat`
+  - Overview (nomenclature, libraries - Tensorflow, Pytorch, MONAI, complete system) (15 min, Tamas)
+  - Ultrasound training data generation (Single-slice segmentation module, 20 min, Tamas, hands-on, helpers: TBD)
+  - Ultrasound AI segmentation (20 min, Tamas, hands-on, helpers: TBD)
+  - Tracking data evaluation (20 min, Matthew TBD)
+  - MONAILabel (15 min, Andras, hands-on, helpers: TBD)
+- 10:30	Break
+- 10:45 Prototyping image-guided therapy applications (Csaba, David, Monica)
+- 12:15	Lunch break
+- 13:00 Sequences, SlicerIGT modules (Kyle) `zoom`
+- 14:30 Break
+- 14:45 Neuronavigation tutorial (Kyle; hands-on, help: Andras) `zoom+spatialchat`
+- 16:00	Adjourn
 
-### May 5, Wednesday: Slicer module development
-- 9:30	Writing correct and understandable code (Andras) `zoom`
-- 10:00	Programming Slicer - part 1: 3D Slicer programming overview (Andras) `zoom`
-- 10:30 Programming Slicer - part 2: Python basics and developing simple example Python module Center of Masses (Kyle, hands-on, help: Andras, Tamas) `zoom+spatialchat`
-- 12:00	Break
+### May 26, Thursday: Slicer module development
+- 9:00	Writing correct and understandable code (Andras) `zoom`
+- 9:30	Programming Slicer - part 1: 3D Slicer programming overview (Andras) `zoom`
+- 10:00 Programming Slicer - part 2: Python basics and developing simple example Python module Center of Masses (Csaba, hands-on, help: Kyle, Andras, Tamas, David, Monica, in French: Marie) `zoom+spatialchat`
+- 12:15	Lunch break
 - 13:00	Programming Slicer - part 3: Individual work to develop a more advanced module (hands-on, help: Kyle, Andras, Tamas) `zoom+spatialchat`
 - 16:00	Adjourn
 
