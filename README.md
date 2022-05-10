@@ -1,10 +1,16 @@
 # PerkLab bootcamp
 
+![](banner.jpg)
+
+This is an online training event for engineering and medical students to get introduced to 3D Slicer and other tools and best practices for prototyping of medical image computing and artificial intelligence applications.
+
+The training was originally developed for new members of the PerkLab and its collaborators, but since we switched to an online format we opened up the registration for everyone. If there are more interested people than we can accommodate then we will have to prioritize accepting applications from our collaborators.
+
 ## Logistics
 
 - Date:	2022 May 24-26
 - Location: Zoom + SpatialChat.
-- Application: [fill this form to apply](https://forms.gle/d6coo4mE8EwsKiEC6) before May 18. Application is open to everyone but if there are more interested people than we can accommodate then we will have to prioritize accepting applications from our collaborators. We will notify each applicant by May 19 the latest.
+- Application: [fill this form to apply](https://forms.gle/d6coo4mE8EwsKiEC6) before May 18. We will notify each applicant by May 19 the latest.
 - Any questions? Send an email to [Andras Lasso](mailto:lasso@queensu.ca).
 
 ## Pre-requisites
