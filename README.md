@@ -4,7 +4,7 @@
 
 This is an online training event for engineering and medical students to get introduced to 3D Slicer and other tools and best practices for prototyping of medical image computing and artificial intelligence applications.
 
-The training was originally developed for new members of the PerkLab and its collaborators, but since we switched to an online format we opened up the registration for everyone. If there are more interested people than we can accommodate then we will have to prioritize accepting applications from our collaborators.
+The training was originally developed for new members of the [PerkLab](http://perk.cs.queensu.ca/) and its collaborators, but since we switched to an online format we opened up the registration for everyone. If there are more interested people than we can accommodate then we will have to prioritize accepting applications from our collaborators.
 
 ## Logistics
 
