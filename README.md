@@ -17,10 +17,10 @@ Train the Trainer is an alliance of several institutions including Queen’s Uni
 
 These were the pre-requisites for last year. This year they may be slightly different. Please check them again in a few days.
 
-- Install [3D Slicer](http://download.slicer.org/) latest stable version (4.11.20210226) -> nightly 64-bit installer. After you installed Slicer, start it, open the Extension manager, and install these extensions: SlicerIGT, SlicerOpenIGTLink, DebuggingTools, SlicerElastix, SegmentRegistration, TCIABrowser, SlicerDMRI, SlicerJupyter.
+- Install 3D Slicer version 5.1.0 rev 30950/30951: [visit this page](https://download.slicer.org/?date=2022-05-19), download **Preview Release**. After you installed Slicer, start it, open the Extension manager (menu: View/Extension manager), and install these extensions: SlicerIGT, SlicerOpenIGTLink, DebuggingTools, SlicerElastix, SegmentRegistration, TCIABrowser, DICOMwebBrowser, SlicerDMRI, SlicerJupyter. If a popup is displayed asking about **Install dependencies**, always click **Yes** to install them.
 - Install [Git for Windows](https://git-scm.com/download/win) and [TortoiseGit](https://tortoisegit.org/) if you have a Windows computer. On macOS and Linux, Git client is usually already installed by default. If you are not comfortable with using softare via the terminal then install a Git client with a graphical user interface, such as [GitHub Desktop](https://desktop.github.com/).
 - [VisualStudio Code](https://code.visualstudio.com/). Install the Python extension from Microsoft (ms-python.python).
-- Register a user at www.github.com
+- If you don't have a GitHub account yet, then create one at www.github.com
 - If you want to effectively participate in day 3: get familiar with Python and numpy syntax; spend some time to get to know VTK (read as much of the [VTK textbook](https://vtk.org/vtk-textbook/) as you can, try to run some of the [VTK examples](https://kitware.github.io/vtk-examples/site/) in Python) and learn about [Qt for Python](https://www.qt.io/qt-for-python) (for example, complete a few basic tutorials).
 - Only for students at Queen's: Prepare with a short introduction about yourself (2-3 minutes, supported by 1-2 slides): experience, research interests, something personal
 - Install zoom and familiarize yourself with [SpatialChat](https://spatial.chat/s/TryMe) (we will use it for hands-on sessions so that multiple participant can share screen and ask questions from instructors when they get stuck)
