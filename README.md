@@ -63,7 +63,8 @@ Time zone: [Toronto, Canada (Eastern Time)](https://www.timeanddate.com/worldclo
 - _10:30am	Break_
 - 10:45am Prototyping image-guided therapy applications (Csaba, David, Monica)
 - _12:15pm	Lunch break_
-- 1:00pm Sequences, SlicerIGT modules (Kyle) `zoom`
+- 1:00pm DeepLearnLive (Rebecca)
+- 1:20pm Introduction to Plus + SlicerIGT (Kyle) `zoom`
 - _2:30pm Break_
 - 2:45pm Neuronavigation tutorial (Kyle; hands-on, help: Andras, Tamas) `zoom+spatialchat`
 - 4:00pm	Adjourn
