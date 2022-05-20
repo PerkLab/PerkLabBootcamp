@@ -31,7 +31,7 @@ These were the pre-requisites for last year. This year they may be slightly diff
 ## Program
 
 The program is subject to change at any time, so please check this page regularly.
-Time zone: Eastern Daylight Time (UTC-4).
+Time zone: [Toronto, Canada (Eastern Time)](https://www.timeanddate.com/worldclock/canada/toronto).
 
 ### May 24, Tuesday: Introduction, 3D Slicer basics, Project management
 - 9:00am Introduction (Sandra, Amitava, Juan, Gabor) `zoom`
