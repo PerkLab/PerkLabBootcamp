@@ -34,15 +34,15 @@ The program is subject to change at any time, so please check this page regularl
 Time zone: Eastern Daylight Time (UTC-4).
 
 ### May 24, Tuesday: Introduction, 3D Slicer basics, Project management
-- 9:00am Introduction, learning spatialchat (Andras) `zoom+spatialchat`
-- 9:15am 3D Slicer basics (Andras) `zoom`
-  - Overview: core features, community, major extensions (30 min)
-- 9:45am 3D Slicer basics 1/2 (Csaba/David hands-on, help: Andras, Kyle, Tamas, Csaba, David, Monica, in French: Marie) `zoom+spatialchat`
-  - Visualization: load/save, sample data, viewers, models, volume rendering (30 min)
-  - DICOM (15 min)
+- 9:00am Introduction (Sandra, Amitava, Juan, Gabor) `zoom`
+- 9:15am Logistics, learning spatialchat (Andras) `spatialchat`
+- 9:30am 3D Slicer basics 1/2 `zoom+spatialchat`
+  - Overview: core features, community, major extensions (20 min, Andras)
+  - Visualization: load/save, sample data, viewers, models, volume rendering (40 min, Csaba/David hands-on, help: Andras, Kyle, Tamas, Csaba, David, Monica, in French: Marie)
 - _10:30am Break_
-- 10:45am 3D Slicer basics 2/2 (Andras hands-on, help: Andras, Kyle, Tamas, Csaba, David, Monica, in French: Marie)
-  - Segmentation (60 min)
+- 10:45am 3D Slicer basics 2/2 (Andras hands-on, help: Kyle, Tamas, Csaba, David, Monica, in French: Marie)
+  - DICOM (10 min)
+  - Segmentation (50 min)
   - Registration: Elastix, landmark registration, SegmentRegistration, transforms, transform visualization (30 min)
 - _12:15pm Lunch break_
 - 1:00pm	Lab policies, available services, and guides (Tamas, Laura) _– only for students at Queen's_ `zoom`
