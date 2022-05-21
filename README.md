@@ -10,7 +10,7 @@ Train the Trainer is an alliance of several institutions including Queen’s Uni
 
 - Date:	2022 May 24-26
 - Location: Zoom + SpatialChat.
-- Application: [fill this form to apply](https://forms.gle/d6coo4mE8EwsKiEC6) before May 18. We will notify each applicant by May 19 the latest.
+- Application: no more applications are accepted for this year's event.
 - Any questions? Send an email to [Andras Lasso](mailto:lasso@queensu.ca).
 
 ## Pre-requisites
