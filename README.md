@@ -35,9 +35,9 @@ The program is subject to change at any time, so please check this page regularl
 Time zone: [Toronto, Canada (Eastern Time)](https://www.timeanddate.com/worldclock/canada/toronto).
 
 ### May 24, Tuesday: Introduction, 3D Slicer basics, Project management
-- 9:00am Introduction (Sandra, Amitava, Juan, Gabor) `zoom`
+- 9:00am Introduction (Amitava Chowdhury - Special Advisor to the Dean; Juan, Gabor) `zoom`
 - 9:15am Logistics, learning spatialchat (Andras) `spatialchat`
-- 9:30am 3D Slicer basics 1/2 `zoom+spatialchat`
+- 9:30am 3D Slicer basics 1/2 `spatialchat`
   - Overview: core features, community, major extensions (20 min, Andras)
   - Visualization: load/save, sample data, viewers, models, volume rendering (40 min, Csaba/David hands-on, help: Andras, Kyle, Tamas, Csaba, David, Monica, in French: Marie)
 - _10:30am Break_
