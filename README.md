@@ -56,7 +56,7 @@ Time zone: [Toronto, Canada (Eastern Time)](https://www.timeanddate.com/worldclo
 ### May 25, Wednesday: AI for image-guided interventions
 - 9:00am AI: `zoom+spatialchat`
   - Overview (nomenclature, libraries - Tensorflow, Pytorch, MONAI, complete system) (15 min, Tamas)
-  - Ultrasound AI segmentation, training and deployment (20 min, Tamas, hands-on, helpers: TBD)
+  - Ultrasound AI segmentation, training and deployment (20 min, Tamas)
   - PyTorch and example pojects (20 min, Amoon, hands-on TBD)
   - Tracking data evaluation (20 min, Matthew TBD)
   - MONAILabel (15 min, Andras, hands-on, helpers: TBD)
