@@ -46,8 +46,8 @@ Time zone: [Toronto, Canada (Eastern Time)](https://www.timeanddate.com/worldclo
   - Segmentation (50 min)
   - Registration: Elastix, landmark registration, SegmentRegistration, transforms, transform visualization (30 min)
 - _12:15pm Lunch break_
-- 1:00pm	Lab policies, available services, and guides (Tamas, Laura) _– only for students at Queen's_ `zoom`
-- 1:30pm	Introduction of participants and instructors (all) _– only for students at Queen's_ `zoom`
+- 1:10pm	Lab policies, available services, and guides (Tamas, Laura) _– only for students at Queen's_ `zoom`
+- 1:35pm	Introduction of participants and instructors (all) _– only for students at Queen's_ `zoom`
 - _2:15pm	Coffee break_ - bring your own beverage, get to know all the participants `zoom+spatialchat`
 - 2:30pm	Software platform, open-source, reproducible science (Andras) `zoom`
 - 3:00pm Project management (Andras; hands-on, help: Kyle) `zoom+spatialchat`
