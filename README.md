@@ -35,7 +35,7 @@ The program is subject to change at any time, so please check this page regularl
 Time zone: [Toronto, Canada (Eastern Time)](https://www.timeanddate.com/worldclock/canada/toronto).
 
 ### May 24, Tuesday: Introduction, 3D Slicer basics, Project management
-- 9:00am Introduction (Amitava Chowdhury - Special Advisor to the Dean; Juan, Gabor) `zoom`
+- 9:00am Introduction (Sandra den Otter - Vice Provost International, Queen's University; Amitava Chowdhury - Special Advisor to the Dean of Arts and Science, Queen's University; Juan Ruiz Alzola, Professor, Universidad de Las Palmas de Gran Canaria; Gabor Fichtinger, Professor, Queen's University) `zoom`
 - 9:15am Logistics, learning spatialchat (Andras) `spatialchat`
 - 9:30am 3D Slicer basics 1/2 `spatialchat`
   - Overview: core features, community, major extensions (20 min, Andras)
