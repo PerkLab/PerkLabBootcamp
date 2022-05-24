@@ -56,7 +56,7 @@ Time zone: [Toronto, Canada (Eastern Time)](https://www.timeanddate.com/worldclo
 - 9:00am AI Overview (nomenclature, libraries, complete system) (Tamas) `spatialchat`
 - 9:15am Ultrasound AI segmentation, training and deployment (Tamas) `spatialchat`
 - 9:35am PyTorch and example pojects (Amoon) `spatialchat`
-- 9:55am Tracking data evaluation (20 min, Matthew TBD) `spatialchat`
+- 9:55am Tracking data evaluation (Matthew) `spatialchat`
 - 10:15am MONAILabel (Andras) `spatialchat`
 - 10:25am Registration: Elastix, landmark registration, SegmentRegistration, transforms, transform visualization (Andras) `spatialchat`
 - _10:40am	Break_
