@@ -42,39 +42,38 @@ Time zone: [Toronto, Canada (Eastern Time)](https://www.timeanddate.com/worldclo
   - Visualization: load/save, sample data, viewers, models, volume rendering (40 min, Csaba/David hands-on, help: Andras, Kyle, Tamas, Csaba, David, Monica, in French: Marie)
 - _10:30am Break_
 - 10:45am 3D Slicer basics 2/2 (Andras hands-on, help: Kyle, Tamas, Csaba, David, Monica, in French: Marie)
-  - DICOM (10 min)
-  - Segmentation (50 min)
-  - Registration: Elastix, landmark registration, SegmentRegistration, transforms, transform visualization (30 min)
+  - DICOM (15 min)
+  - Segmentation (60 min)
 - _12:15pm Lunch break_
-- 1:10pm	Lab policies, available services, and guides (Tamas, Laura) _– only for students at Queen's_ `zoom`
-- 1:35pm	Introduction of participants and instructors (all) _– only for students at Queen's_ `zoom`
-- _2:15pm	Coffee break_ - bring your own beverage, get to know all the participants `zoom+spatialchat`
-- 2:30pm	Software platform, open-source, reproducible science (Andras) `zoom`
-- 3:00pm Project management (Andras; hands-on, help: Kyle) `zoom+spatialchat`
+- 1:10pm	Lab policies, available services, and guides (Tamas, Laura) _– only for students at Queen's_ `spatialchat`
+- 1:35pm	Introduction of participants and instructors (Queen's students) _– only for students at Queen's_ `spatialchat`
+- _2:15pm	Coffee break_ - bring your own beverage, get to know all the participants `spatialchat`
+- 2:30pm	Software platform, open-source, reproducible science (Andras) `spatialchat`
+- 3:00pm Project management (Andras; hands-on, help: Kyle) `spatialchat`
 - 4:00pm	Adjourn
 
 ### May 25, Wednesday: AI for image-guided interventions
-- 9:00am AI: `zoom+spatialchat`
-  - Overview (nomenclature, libraries, complete system) (15 min, Tamas)
-  - Ultrasound AI segmentation, training and deployment (20 min, Tamas)
-  - PyTorch and example pojects (20 min, Amoon, hands-on TBD)
-  - Tracking data evaluation (20 min, Matthew TBD)
-  - MONAILabel (15 min, Andras, hands-on, helpers: TBD)
-- _10:30am	Break_
+- 9:00am AI Overview (nomenclature, libraries, complete system) (Tamas) `spatialchat`
+- 9:15am Ultrasound AI segmentation, training and deployment (Tamas) `spatialchat`
+- 9:35am PyTorch and example pojects (Amoon) `spatialchat`
+- 9:55am Tracking data evaluation (20 min, Matthew TBD) `spatialchat`
+- 10:15am MONAILabel (Andras) `spatialchat`
+- 10:25am Registration: Elastix, landmark registration, SegmentRegistration, transforms, transform visualization (Andras) `spatialchat`
+- _10:40am	Break_
 - 10:45am Prototyping image-guided therapy applications (Csaba, David, Monica)
 - _12:15pm	Lunch break_
-- 1:00pm DeepLearnLive (Rebecca)
-- 1:20pm Introduction to Plus + SlicerIGT (Kyle) `zoom`
+- 1:00pm DeepLearnLive (Rebecca) `spatialchat`
+- 1:20pm Introduction to Plus + SlicerIGT (Kyle) `spatialchat`
 - _2:30pm Break_
-- 2:45pm Neuronavigation tutorial (Kyle; hands-on, help: Andras, Tamas) `zoom+spatialchat`
+- 2:45pm Neuronavigation tutorial (Kyle; hands-on, help: Andras, Tamas) `spatialchat`
 - 4:00pm	Adjourn
 
 ### May 26, Thursday: Slicer module development
-- 9:00am	Writing correct and understandable code (Andras) `zoom`
-- 9:30am	Programming Slicer - part 1: 3D Slicer programming overview (Andras) `zoom`
-- 10:00am Programming Slicer - part 2: Python basics and developing simple example Python module Center of Masses (Csaba, hands-on, help: Kyle, Andras, Tamas, David, Monica, Mark, Laura, Colton; in French: Marie) `zoom+spatialchat`
+- 9:00am	Writing correct and understandable code (Andras) `spatialchat`
+- 9:30am	Programming Slicer - part 1: 3D Slicer programming overview (Andras) `spatialchat`
+- 10:00am Programming Slicer - part 2: Python basics and developing simple example Python module Center of Masses (Csaba, hands-on, help: Kyle, Andras, Tamas, David, Monica, Mark, Laura, Colton; in French: Marie) `spatialchat`
 - _12:15pm	Lunch break_
-- 1:00pm	Programming Slicer - part 3: Individual work to develop a more advanced module (hands-on, help: Kyle, Andras, Tamas, Laura, Colton) `zoom+spatialchat`
+- 1:00pm	Programming Slicer - part 3: Individual work to develop a more advanced module (hands-on, help: Kyle, Andras, Tamas, Laura, Colton) `spatialchat`
 - 4:00pm	Adjourn
 
 Presentation slides and additional files will be available in this repository.
