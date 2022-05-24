@@ -17,7 +17,7 @@ Train the Trainer is an alliance of several institutions including Queen’s Uni
 
 These were the pre-requisites for last year. This year they may be slightly different. Please check them again in a few days.
 
-- Install [3D Slicer](https://download.slicer.org/) latest stable version (5.0.x). After you installed Slicer, start it, open the Extension manager (menu: View/Extension manager), and install these extensions: SlicerIGT, SlicerOpenIGTLink, DebuggingTools, SlicerElastix, SegmentRegistration, TCIABrowser, DICOMwebBrowser, SlicerDMRI, SlicerJupyter. If a popup is displayed asking about **Install dependencies**, always click **Yes** to install them.
+- Install [3D Slicer](https://download.slicer.org/) latest stable version (5.0.x). After you installed Slicer, start it, open the Extension manager (menu: View/Extension manager), and install these extensions: SlicerIGT, SlicerOpenIGTLink, SegmentEditorExtraEffects, DebuggingTools, SlicerElastix, SegmentRegistration, DICOMwebBrowser, SlicerDMRI, SlicerJupyter. If a popup is displayed asking about **Install dependencies**, always click **Yes** to install them.
 - Install [Git for Windows](https://git-scm.com/download/win) and [TortoiseGit](https://tortoisegit.org/) if you have a Windows computer. On macOS and Linux, Git client is usually already installed by default. If you are not comfortable with using softare via the terminal then install a Git client with a graphical user interface, such as [GitHub Desktop](https://desktop.github.com/).
 - [VisualStudio Code](https://code.visualstudio.com/). Install the Python extension from Microsoft (ms-python.python).
 - If you don't have a GitHub account yet, then create one at www.github.com
