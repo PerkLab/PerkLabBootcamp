@@ -59,9 +59,9 @@ Time zone: [Toronto, Canada (Eastern Time)](https://www.timeanddate.com/worldclo
 - 10:25am Tracking data evaluation (Matthew) `spatialchat`
 - _10:45am	Break_
 - 11:00am Prototyping image-guided therapy applications (Csaba, David, Monica)
+- 11:50am Registration: Elastix, landmark registration, SegmentRegistration, transforms, transform visualization (Andras) `spatialchat`
+- 12:10pm MONAILabel (Andras) `spatialchat`
 - _12:25pm	Lunch break_
-  - 12:30pm MONAILabel (Andras) `spatialchat`
-  - 12:40pm Registration: Elastix, landmark registration, SegmentRegistration, transforms, transform visualization (Andras) `spatialchat`
 - 1:00pm DeepLearnLive (Rebecca) `spatialchat`
 - 1:20pm Introduction to Plus + SlicerIGT (Kyle) `spatialchat`
 - _2:30pm Break_
