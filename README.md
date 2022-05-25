@@ -54,14 +54,14 @@ Time zone: [Toronto, Canada (Eastern Time)](https://www.timeanddate.com/worldclo
 
 ### May 25, Wednesday: AI for image-guided interventions
 - 9:00am AI Overview (nomenclature, libraries, complete system) (Tamas) `spatialchat`
-- 9:15am Ultrasound AI segmentation, training and deployment (Tamas) `spatialchat`
-- 9:35am PyTorch and example pojects (Amoon) `spatialchat`
-- 9:55am Tracking data evaluation (Matthew) `spatialchat`
-- 10:15am MONAILabel (Andras) `spatialchat`
-- 10:25am Registration: Elastix, landmark registration, SegmentRegistration, transforms, transform visualization (Andras) `spatialchat`
-- _10:40am	Break_
-- 10:45am Prototyping image-guided therapy applications (Csaba, David, Monica)
-- _12:15pm	Lunch break_
+- 9:30am Ultrasound AI segmentation, training and deployment (Tamas) `spatialchat`
+- 9:55am PyTorch and example pojects (Amoon) `spatialchat`
+- 10:25am Tracking data evaluation (Matthew) `spatialchat`
+- _10:45am	Break_
+- 11:00am Prototyping image-guided therapy applications (Csaba, David, Monica)
+- _12:25pm	Lunch break_
+  - 12:25am MONAILabel (Andras) `spatialchat`
+  - 12:35am Registration: Elastix, landmark registration, SegmentRegistration, transforms, transform visualization (Andras) `spatialchat`
 - 1:00pm DeepLearnLive (Rebecca) `spatialchat`
 - 1:20pm Introduction to Plus + SlicerIGT (Kyle) `spatialchat`
 - _2:30pm Break_
