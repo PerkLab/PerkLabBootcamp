@@ -9,7 +9,7 @@ Train the Trainer is an alliance of several institutions including Queen’s Uni
 ## Logistics
 
 - Date:	2022 May 24-26
-- Location: Zoom + SpatialChat.
+- Location: SpatialChat (link is sent after registration).
 - Application: no more applications are accepted for this year's event.
 - Any questions? Send an email to [Andras Lasso](mailto:lasso@queensu.ca).
 
