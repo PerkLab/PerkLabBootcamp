@@ -66,10 +66,10 @@ Time zone: [Toronto, Canada (Eastern Time)](https://www.timeanddate.com/worldclo
 
 ### May 26, Thursday: Slicer module development
 - 9:00am	Writing correct and understandable code (Andras) `spatialchat`
-- 9:30am	Programming Slicer - part 1: 3D Slicer programming overview (Andras) `spatialchat`
-- 10:00am Programming Slicer - part 2: Python basics and developing simple example Python module Center of Masses (Csaba, hands-on, help: Kyle, Andras, Tamas, David, Monica, Mark, Laura, Colton; in French: Marie) `spatialchat`
+- 9:30am	[Programming Slicer - part 1: 3D Slicer programming overview](https://github.com/Slicer/SlicerProgrammingTutorial) (Andras) `spatialchat`
+- 10:00am [Programming Slicer - part 2: Python basics and developing simple example Python module Center of Masses](https://github.com/Slicer/SlicerProgrammingTutorial) (Csaba, hands-on, help: Kyle, Andras, Tamas, David, Monica, Mark, Laura, Colton; in French: Marie) `spatialchat`
 - _12:15pm	Lunch break_
-- 1:00pm	Programming Slicer - part 3: Individual work to develop a more advanced module (hands-on, help: Kyle, Andras, Tamas, Laura, Colton) `spatialchat`
+- 1:00pm	[Programming Slicer - part 3: Individual work to develop a more advanced module](https://github.com/Slicer/SlicerProgrammingTutorial) (hands-on, help: Kyle, Andras, Tamas, Laura, Colton) `spatialchat`
 - 4:00pm	Adjourn
 
 Presentation slides and additional files will be available in this repository.
