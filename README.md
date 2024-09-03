@@ -1,21 +1,17 @@
-# Joint global workshop on Sustainable Development in Computer-Assisted Interventions and Diagnosis
+# PerkLab bootcamp
 
 ![](banner.jpg)
 
 The aim of this workshop, delivered as an intense three day bootcamp, is to provide training for engineering and computing students for best practices for prototyping of medical image computing, computer-assisted interventions and artificial intelligence applications in an open-source software environment. The workshop is also offered in support of Train the Trainers program that is established to develop sustainable technology development in medical interventions. It will be an online training event, offered by scientists and software engineers in Canada (Queen’s University, Carlton University, National Research Council), Spain (University of Las Palmas de Gran Canaria) and Senegal (Cheikh Anta Diop University, Ecole Supérieure Polytechnique).
- 
-Train the Trainer is an alliance of several institutions including Queen’s University, University of Las Palmas de Gran Canaria, Harvard Medical School, and several collaborators in West Africa particularly in Senegal and Mauritania, that is founded on the premise of innovative applications of free open-source software. The program supports a free, open-source medical image analysis and visualization software ecosystem [3D Slicer](http://www.slicer.org), downloaded over 1,000,000 times across the globe since its inception over 20 years ago. Sustainable development is based on free open source software, knowledge translation and closing the knowledge gap between historically privileged academic centres and those in low and middle income countries. 
 
 ## Logistics
 
-- Date:	2022 May 24-26
-- Location: SpatialChat (link is sent after registration).
-- Application: no more applications are accepted for this year's event.
+- Date:	TBD
+- Location: TBD (meeting link is sent after registration).
+- Application: TBD
 - Any questions? Send an email to [Andras Lasso](mailto:lasso@queensu.ca).
 
 ## Pre-requisites
-
-These were the pre-requisites for last year. This year they may be slightly different. Please check them again in a few days.
 
 - Install [3D Slicer](https://download.slicer.org/) latest stable version (5.0.x). After you installed Slicer, start it, open the Extension manager (menu: View/Extension manager), and install these extensions: SlicerIGT, SlicerOpenIGTLink, SegmentEditorExtraEffects, DebuggingTools, SlicerElastix, SegmentRegistration, DICOMwebBrowser, SlicerDMRI, SlicerJupyter. If a popup is displayed asking about **Install dependencies**, always click **Yes** to install them.
 - Install [Git for Windows](https://git-scm.com/download/win) and [TortoiseGit](https://tortoisegit.org/) if you have a Windows computer. On macOS and Linux, Git client is usually already installed by default. If you are not comfortable with using softare via the terminal then install a Git client with a graphical user interface, such as [GitHub Desktop](https://desktop.github.com/).
@@ -35,11 +31,11 @@ The program is subject to change at any time, so please check this page regularl
 Time zone: [Toronto, Canada (Eastern Time)](https://www.timeanddate.com/worldclock/canada/toronto).
 
 ### May 24, Tuesday: Introduction, 3D Slicer basics, Project management
-- 9:00am Introduction (Sandra den Otter - Vice Provost International, Queen's University; Amitava Chowdhury - Special Advisor to the Dean of Arts and Science, Queen's University; Juan Ruiz Alzola, Professor, Universidad de Las Palmas de Gran Canaria; Gabor Fichtinger, Professor, Queen's University) `zoom`
-- 9:15am Logistics, learning spatialchat (Andras) `spatialchat`
+- 9:00am Introduction `zoom`
+- 9:15am Logistics (Andras) `spatialchat`
 - 9:30am 3D Slicer basics 1/2 `spatialchat`
   - Overview: core features, community, major extensions (20 min, Andras)
-  - Visualization: load/save, sample data, viewers, models, volume rendering (40 min, Csaba/David hands-on, help: Andras, Kyle, Tamas, Csaba, David, Monica, in French: Marie)
+  - Visualization: load/save, sample data, viewers, models, volume rendering (40 min, Csaba/David hands-on, help: Andras, Kyle, Tamas, Csaba, David, Monica, in French: Marie), [slides & data](https://github.com/Slicer/SlicerDataLoadingAndVisualizationTutorial/tree/main?tab=readme-ov-file#data-loading-and-visualization-tutorial-for-3d-slicer)
 - _10:30am Break_
 - 10:45am 3D Slicer basics 2/2 (Andras hands-on, help: Kyle, Tamas, Csaba, David, Monica, in French: Marie)
   - DICOM (15 min)
@@ -55,7 +51,7 @@ Time zone: [Toronto, Canada (Eastern Time)](https://www.timeanddate.com/worldclo
 ### May 25, Wednesday: AI for image-guided interventions
 - 9:00am AI Overview (nomenclature, libraries, complete system) (Tamas) `spatialchat`
 - 9:30am Ultrasound AI segmentation, training and deployment (Tamas) `spatialchat`
-- 9:55am PyTorch and example pojects (Amoon) `spatialchat`
+- 9:55am PyTorch and example projects (Amoon) `spatialchat`
 - 10:25am Tracking data evaluation (Matthew) `spatialchat`
 - _10:45am	Break_
 - 11:00am Prototyping image-guided therapy applications (Csaba, David, Monica)
