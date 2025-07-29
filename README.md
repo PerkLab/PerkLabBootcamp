@@ -22,7 +22,7 @@ The aim of this workshop, delivered as an intense three day bootcamp, is to prov
 - Install zoom and familiarize yourself with [SpatialChat](https://spatial.chat/s/TryMe) (we will use it for hands-on sessions so that multiple participant can share screen and ask questions from instructors when they get stuck)
 - Windows users: Download and install PLUS toolkit - stable 64-Bit version (2.8.0.20191105-Win64) from [here](http://perk-software.cs.queensu.ca/plus/packages/stable/).
 - Windows users: Print a set of ArUco markers from [here](https://github.com/PlusToolkit/PlusLibData/raw/master/ConfigFiles/OpticalMarkerTracker/marker_sheet_36h12.pdf) at 100% scale.
-- Download NeuroNav tutorial data from [here](https://queensuca-my.sharepoint.com/:f:/g/personal/1krs1_queensu_ca/EspLcq9slYBFphm5XxV2um8BjajOsRIXnmrszxvSoPPbVA?e=0RsHX2).
+- Download NeuroNav tutorial data from [here](https://1drv.ms/f/s!AhiABcbe1DBylnlkJEgmTsI1WF8P?e=zijasb).
 
 ## Program
 
